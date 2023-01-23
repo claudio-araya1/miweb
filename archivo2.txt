@@ -1,4 +1,0 @@
-Apertura der segundo archivo para validaciones con GIT.
-fecha 23-01-2023
-Primera modificacion al archivo para verificar en GIT 23-01-2023 15:38 hrs
-Segunda Modificacion de archivo 23-01 15:44
