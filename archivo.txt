@@ -1,1 +1,3 @@
 Inicio de curso de GIT, comandos.
+nuevos cambios 
+nuevo archivo

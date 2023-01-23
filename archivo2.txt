@@ -1,0 +1,2 @@
+Creacion de nuevo archivo para ver aplicacion de git status
+ver cambios
